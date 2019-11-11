@@ -1,0 +1,54 @@
+input[type=text], input[type=password] {
+    width: 50%;
+    text-align: center;
+    padding: 12px 20px;
+    margin: 18px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  h1{
+    text-align: center;   
+  }
+  
+  .log{
+    background-color: rgba(19, 16, 189, 0.424);
+    color: rgb(0, 0, 0);
+    padding: 14px 20px;
+    margin: 8px 30%;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+  }
+  button{
+    background-color: rgba(22, 165, 41, 0.938);
+    color: rgb(0, 0, 0);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    text-align: center;    
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  .log {
+    padding: 16px;
+  }
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  .navbar-custom{
+    background-color: rgb(51, 18, 128);
+    margin-left: 0%;
+    padding-left: 4%;
+    }
+    .nav-item{
+        margin-left: 6%;
+        letter-spacing: .2rem;
+    }
+    .nav-link{
+    color: rgb(255, 255, 255);
+    }
